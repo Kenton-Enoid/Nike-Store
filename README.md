@@ -25,7 +25,7 @@
 2. Boostrap you can get the instructions from this site : https://getbootstrap.com/docs/5.3/getting-started/introduction/
     * You can run "pip install bootstrap5" to install bootstrap to use for the project
     * Here's another way to make sure the Bootstrap is installed:
-    [![Alt Text](url)
+    ![Alt Text](https://github.com/Kenton-Enoid/Nike-Store/blob/main/Web%20Screenshots/Head%20links.png)
 3. HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies used for building web pages. HTML provides the structure of the page, while CSS is used to style the page and lay it out. For example, you can use CSS to alter the font, color, size, and spacing of your content, split it into multiple columns, or add animations and other decorative features.
     * There are three ways to add CSS to an HTML document:
       1. Inline: by using the style attribute inside HTML elements.
@@ -43,13 +43,13 @@ Please implement all of the below features by making use of Bootstrap in your pr
     * Have your images become responsive (make them change when the user moves their mouse over them).
     * Have your page display a price and name for each product.
     * Include a button under each product to “buy” the product (this does not need to be functional yet!)
-    [![Alt Text](url)
+    ![Alt Text](https://github.com/Kenton-Enoid/Nike-Store/blob/main/Web%20Screenshots/Items.png)
 
 2. Footer
     * Create a horizontal form.
     * This form should get the contact details of the customer (this does not need to be functional yet!)
     * Include a small company logo next to the form.
-    [![Alt Text](url)
+    ![Alt Text](https://github.com/Kenton-Enoid/Nike-Store/blob/main/Web%20Screenshots/Footer.png)
 
 ## Credits
 [Bootstrap 5 Tutorial](https://www.w3schools.com/bootstrap5/index.php)
